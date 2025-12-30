@@ -1,4 +1,4 @@
 # StudentCollege
 This is my first Git 
 <br>
-Author - Dnyaneshwari Pachankar 
+Author - Dnyaneshwari  (hii StudentCollege )
